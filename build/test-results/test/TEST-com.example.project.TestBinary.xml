@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.example.project.TestBinary" tests="7" skipped="0" failures="0" errors="0" timestamp="2025-03-13T12:13:26" hostname="codespaces-e41c74" time="0.09">
+<testsuite name="com.example.project.TestBinary" tests="7" skipped="0" failures="0" errors="0" timestamp="2025-03-18T12:49:58" hostname="codespaces-e41c74" time="0.284">
   <properties/>
-  <testcase name="testBinarySearch_SingleElementArray_TargetFound()" classname="com.example.project.TestBinary" time="0.044"/>
-  <testcase name="testBinarySearch_TargetNotFound()" classname="com.example.project.TestBinary" time="0.009"/>
-  <testcase name="testBinarySearch_SingleElementArray_TargetNotFound()" classname="com.example.project.TestBinary" time="0.003"/>
-  <testcase name="testBinarySearch_TargetAtEnd()" classname="com.example.project.TestBinary" time="0.005"/>
-  <testcase name="testBinarySearch_TargetFound()" classname="com.example.project.TestBinary" time="0.002"/>
-  <testcase name="testBinarySearch_EmptyArray()" classname="com.example.project.TestBinary" time="0.002"/>
-  <testcase name="testBinarySearch_TargetAtStart()" classname="com.example.project.TestBinary" time="0.005"/>
+  <testcase name="testBinarySearch_SingleElementArray_TargetFound()" classname="com.example.project.TestBinary" time="0.135"/>
+  <testcase name="testBinarySearch_TargetNotFound()" classname="com.example.project.TestBinary" time="0.029"/>
+  <testcase name="testBinarySearch_SingleElementArray_TargetNotFound()" classname="com.example.project.TestBinary" time="0.001"/>
+  <testcase name="testBinarySearch_TargetAtEnd()" classname="com.example.project.TestBinary" time="0.018"/>
+  <testcase name="testBinarySearch_TargetFound()" classname="com.example.project.TestBinary" time="0.012"/>
+  <testcase name="testBinarySearch_EmptyArray()" classname="com.example.project.TestBinary" time="0.017"/>
+  <testcase name="testBinarySearch_TargetAtStart()" classname="com.example.project.TestBinary" time="0.008"/>
   <system-out><![CDATA[4
 4
 3

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.example.project.TestSpellChecker" tests="5" skipped="0" failures="0" errors="0" timestamp="2025-03-13T12:13:27" hostname="codespaces-e41c74" time="0.74">
+<testsuite name="com.example.project.TestSpellChecker" tests="5" skipped="0" failures="0" errors="0" timestamp="2025-03-18T12:50:01" hostname="codespaces-e41c74" time="2.436">
   <properties/>
-  <testcase name="testLinearSearchInList()" classname="com.example.project.TestSpellChecker" time="0.027"/>
-  <testcase name="testBinarySearchInList2()" classname="com.example.project.TestSpellChecker" time="0.002"/>
-  <testcase name="testBinarySearchNotInList()" classname="com.example.project.TestSpellChecker" time="0.005"/>
-  <testcase name="testLinearSearchNotInList()" classname="com.example.project.TestSpellChecker" time="0.013"/>
+  <testcase name="testLinearSearchInList()" classname="com.example.project.TestSpellChecker" time="0.056"/>
+  <testcase name="testBinarySearchInList2()" classname="com.example.project.TestSpellChecker" time="0.006"/>
+  <testcase name="testBinarySearchNotInList()" classname="com.example.project.TestSpellChecker" time="0.007"/>
+  <testcase name="testLinearSearchNotInList()" classname="com.example.project.TestSpellChecker" time="0.075"/>
   <testcase name="testBinarySearchInList()" classname="com.example.project.TestSpellChecker" time="0.001"/>
   <system-out><![CDATA[
 dictionary.txt file imported successfully!
